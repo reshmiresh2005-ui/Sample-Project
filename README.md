@@ -2,7 +2,7 @@
 Description of the project
 red
 black
-nivi
+nivi6
 pink
 resh
 prici
