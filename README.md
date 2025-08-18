@@ -7,3 +7,5 @@ pink
 resh
 prici
 reh
+aesthatic
+mental illness
